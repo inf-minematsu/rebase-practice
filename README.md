@@ -2,4 +2,4 @@
 
 paractice
 rebase-practice ブランチで更新（rebase コンフリクト用）
-rebase用
+stash 練習
