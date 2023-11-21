@@ -1,4 +1,4 @@
 # rebase-practice
 
 paractice
-main ブランチで更新（コンフリクト 用）
+rebase-practice ブランチで更新（rebase コンフリクト用）
